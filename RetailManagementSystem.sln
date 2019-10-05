@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMDataManager", "RMDataMana
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RetailData", "RetailData\RetailData.sqlproj", "{AF56CBD2-1BFA-42A5-8ECB-F98B94BAE8FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailManagerApp", "RetailManagerApp\RetailManagerApp.csproj", "{AD6C973E-2720-4F7C-AFE5-13082425DBC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{AF56CBD2-1BFA-42A5-8ECB-F98B94BAE8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF56CBD2-1BFA-42A5-8ECB-F98B94BAE8FB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AF56CBD2-1BFA-42A5-8ECB-F98B94BAE8FB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AD6C973E-2720-4F7C-AFE5-13082425DBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6C973E-2720-4F7C-AFE5-13082425DBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6C973E-2720-4F7C-AFE5-13082425DBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6C973E-2720-4F7C-AFE5-13082425DBC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
